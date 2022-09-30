@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Sigortalama\Sigortalama\bin\Debug\Sigortalama.exe.config
+C:\Users\user\source\repos\Sigortalama\Sigortalama\bin\Debug\Sigortalama.exe
+C:\Users\user\source\repos\Sigortalama\Sigortalama\bin\Debug\Sigortalama.pdb
+C:\Users\user\source\repos\Sigortalama\Sigortalama\obj\Debug\Sigortalama.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Sigortalama\Sigortalama\obj\Debug\Sigortalama.Form1.resources
+C:\Users\user\source\repos\Sigortalama\Sigortalama\obj\Debug\Sigortalama.Properties.Resources.resources
+C:\Users\user\source\repos\Sigortalama\Sigortalama\obj\Debug\Sigortalama.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Sigortalama\Sigortalama\obj\Debug\Sigortalama.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Sigortalama\Sigortalama\obj\Debug\Sigortalama.exe
+C:\Users\user\source\repos\Sigortalama\Sigortalama\obj\Debug\Sigortalama.pdb
